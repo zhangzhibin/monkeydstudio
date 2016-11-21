@@ -9,10 +9,10 @@ ShadowRunner 1.1.0 is proudly released on [iTunes Store](https://itunes.apple.co
 欢迎下载体验。
 
 ### WebGL 体验版本
-Try WebGL Version: [HERE](/ShadowRunner)
-体验网页版: [点这里](/ShadowRunner)
+Try WebGL Version: [HERE](/ShadowRunner)  
+体验网页版: [点这里](/ShadowRunner)  
 
-** It takes some time to load the game, thanks for your patience in advance **
+** It takes some time to load the game, thanks for your patience in advance **  
 ** 加载需要一些时间，谢谢你的耐心 **
 
 #### How To Play
