@@ -12,6 +12,21 @@ ShadowRunner 1.1.0 is proudly released on [iTunes Store](https://itunes.apple.co
 Try WebGL Version: [HERE](/ShadowRunner)
 体验网页版: [点这里](/ShadowRunner)
 
+** It takes some time to load the game, thanks for your patience in advance **
+** 加载需要一些时间，谢谢你的耐心 **
+
+#### How To Play
+* **Move**: Left/Right or A/D  
+* **Jump**: Space or Up or W  
+* **Double** Jump: Hit jump again after jumpping in the air  
+* **Pause/Resume Game**: Esc
+  
+控制
+* **移动**: 左右箭头 或者 A/D
+* **跳跃**: 空格 或者 W 或者 上
+* **二级跳**: 跳到空中后再次跳跃
+* **暂停/恢复游戏**: Esc
+
 ### What is ShadowRunner
 In this game, you try to collect as much coins as you can from the Lord of Shadows.  
 在这个游戏中，你需要从影子领主那里拾(tou)取尽可能多的金币。
